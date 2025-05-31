@@ -27,4 +27,4 @@ This project performs an exploratory data analysis (EDA) on student academic per
 - **Completed**: May 2025  
 - **Team Size**: Individual Project  
 - **Notebook**: `DE_StudentPerformance.ipynb`  
-- **Dataset Source**: *(Insert link if public)*
+
